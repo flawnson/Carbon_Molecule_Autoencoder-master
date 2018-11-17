@@ -1,0 +1,10 @@
+134823855	[CH-]=O.[C-]#N.[C-]#N.[C-]#[O+].[C-]#[O+].C(/N=C\[SH2+])[SH2+].[Fe+2].[Fe+3]
+134823852	[CH-]=O.[C-]#N.[C-]#N.[C-]#[O+].[C-]#[O+].C(/N=C/[SH2+])[SH2+].[Fe+2].[Fe+3]
+129627360	CC[C@H](C)[C@@H]([C@@H](CC(=O)N1CCC[C@H]1[C@@H]([C@@H](C)C(=O)NCCC2=CC=CC=C2)OC)OC)N(C)C(=O)[C@H](C(C)C)NC(=O)[C@H](C(C)C)N(C)C(=O)CCCCCN3C(=O)C=CC3=O.C(=O)=O
+134694826	[H-].CC1=CC=C[CH-]1.[C-]#[O+].[C-]#[O+].[C-]#[O+].[W+2]
+134694825	[H-].COC1=CC(=NC=C1)CC2=CC=C[CH-]2.[C-]#[O+].[C-]#[O+].[C-]#[O+].[W+2]
+134694824	[H-].CC1=NC(=CC=C1)CC2=CC=C[CH-]2.[C-]#[O+].[C-]#[O+].[C-]#[O+].[W+2]
+134694823	[H-].[C-]#[O+].[C-]#[O+].[C-]#[O+].[CH-]1C=CC=C1CC2=CC=CC=N2.[W+2]
+134694822	[H-].COC1=CC=CC(=N1)CC2=CC=C[CH-]2.[C-]#[O+].[C-]#[O+].[C-]#[O+].[W+2]
+134694821	[H-].[C-]#[O+].[C-]#[O+].[C-]#[O+].[CH-]1C=CC=C1CC2=NC=C(C=C2)C(F)(F)F.[W+2]
+134691335	C1(=O)OC(O1)(OC(=O)[O-])OC(=O)[O-].[Ca+2]
